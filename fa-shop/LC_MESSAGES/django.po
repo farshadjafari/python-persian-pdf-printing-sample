@@ -1,0 +1,633 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-06 01:35+0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: about/apps.py:8 about/models.py:14 about/models.py:15
+msgid "About Us"
+msgstr "درباره‌ی ما"
+
+#: about/models.py:9
+msgid "About Us Post Title"
+msgstr "عنوان درباره‌ی ما"
+
+#: about/models.py:10
+msgid "About Us Post Content"
+msgstr "متن درباره‌ی ما"
+
+#: about/models.py:20
+msgid "Name"
+msgstr "نام"
+
+#: about/models.py:21
+msgid "Family"
+msgstr "نام خانوادگی"
+
+#: about/models.py:22
+msgid "Phone"
+msgstr "شماره تماس"
+
+#: about/models.py:23
+msgid "Email"
+msgstr "ایمیل"
+
+#: about/models.py:24
+msgid "description"
+msgstr "توضیحات"
+
+#: about/models.py:25
+msgid "Field"
+msgstr "نوع همکاری"
+
+#: about/models.py:26
+msgid "Resume"
+msgstr "فایل رزومه"
+
+#: about/models.py:30 about/models.py:31
+msgid "Contact Us"
+msgstr "درخواست همکاری"
+
+#: blog/apps.py:8 blog/models.py:15 blog/models.py:16
+msgid "News"
+msgstr "اخبار"
+
+#: blog/models.py:9
+msgid "News Title"
+msgstr "عنوان خبر"
+
+#: blog/models.py:10
+msgid "News Author"
+msgstr "مولف خبر"
+
+#: blog/models.py:11
+msgid "News Content"
+msgstr "متن خبر"
+
+#: branch/apps.py:7 branch/models.py:19
+msgid "Branch"
+msgstr "نمایندگی"
+
+#: branch/models.py:8
+msgid "Stor Name"
+msgstr "نام فروشگاه"
+
+#: branch/models.py:9
+msgid "Owner Name"
+msgstr "نام همکار"
+
+#: branch/models.py:10
+msgid "Store Address"
+msgstr "آدرس فروشگاه"
+
+#: branch/models.py:11
+msgid "Store Number"
+msgstr "شماره تلفن"
+
+#: branch/models.py:12
+msgid "Store City"
+msgstr "شهر"
+
+#: branch/models.py:13
+msgid "Store Region"
+msgstr "ناحیه"
+
+#: branch/models.py:14
+msgid "Store Province"
+msgstr "استان نمایندگی"
+
+#: branch/models.py:15
+msgid "Geo Location"
+msgstr "مکان جغرافیایی"
+
+#: branch/models.py:20
+msgid "Branches"
+msgstr "نمایندگی‌ها"
+
+#: downloads/apps.py:7 downloads/models.py:11
+msgid "Downloads"
+msgstr "دانلودها"
+
+#: downloads/models.py:6 gallery/models.py:23
+msgid "Image"
+msgstr "تصویر"
+
+#: downloads/models.py:7
+msgid "Download Title"
+msgstr "عنوان فایل"
+
+#: downloads/models.py:8
+msgid "Download Item"
+msgstr "فایل"
+
+#: downloads/models.py:10
+msgid "Download"
+msgstr "دانلود"
+
+#: gallery/admin.py:38 gallery/models.py:26
+msgid "Album Image"
+msgstr "تصویر این آلبوم"
+
+#: gallery/admin.py:39 gallery/models.py:27
+msgid "Album Images"
+msgstr "تصاویر این آلبوم"
+
+#: gallery/apps.py:7
+msgid "Gallery"
+msgstr "گالری"
+
+#: gallery/models.py:8
+msgid "Album Title"
+msgstr "عنوان آلبوم"
+
+#: gallery/models.py:9 gallery/models.py:14
+msgid "Album Main Image"
+msgstr "تصویر اصلی آلبوم"
+
+#: gallery/models.py:10
+msgid "Album Description"
+msgstr "توضیحات آلبوم"
+
+#: gallery/models.py:18 gallery/models.py:22
+msgid "Album"
+msgstr "آلبوم"
+
+#: gallery/models.py:19
+msgid "Albums"
+msgstr "آلبوم‌ها"
+
+#: gallery/models.py:24
+msgid "Image Description"
+msgstr "توضیحات تصویر"
+
+#: home/admin.py:14
+msgid "Poll Choice"
+msgstr "گزینه‌ی نظرسنجی"
+
+#: home/admin.py:15
+msgid "Poll Choices"
+msgstr "گزینه‌های نظرسنجی"
+
+#: home/admin.py:48 shop/admin.py:60
+msgid "Message title"
+msgstr "عنوان پیام"
+
+#: home/admin.py:49 shop/admin.py:61
+msgid "Message text"
+msgstr "متن پیام"
+
+#: home/admin.py:63 shop/admin.py:72
+msgid "Send Email"
+msgstr "ارسال ایمیل"
+
+#: home/admin.py:71 shop/admin.py:80
+msgid "Send sms"
+msgstr "ارسال پیامک"
+
+#: home/admin.py:91
+msgid "Total Payed"
+msgstr "کل خرید"
+
+#: home/apps.py:7
+msgid "home"
+msgstr "خانه"
+
+#: home/choices.py:4
+msgid "Male"
+msgstr "مرد"
+
+#: home/choices.py:5
+msgid "Female"
+msgstr "زن"
+
+#: home/models.py:10 home/models.py:12
+msgid "Banner Image"
+msgstr "تصویر بنر"
+
+#: home/models.py:13
+msgid "Banner Images"
+msgstr "تصاویر بنر"
+
+#: home/models.py:16
+msgid "Poll Question"
+msgstr "سوال نظرسنجی"
+
+#: home/models.py:17
+msgid "active"
+msgstr "فعال"
+
+#: home/models.py:20
+msgid "Poll Results"
+msgstr "نتایج نظرسنجی"
+
+#: home/models.py:24 home/models.py:28
+msgid "Poll"
+msgstr "نظرسنجی"
+
+#: home/models.py:25
+msgid "Polls"
+msgstr "نظرسنجی‌ها"
+
+#: home/models.py:29
+msgid "Poll Answer"
+msgstr "پاسخ نظرسنجی"
+
+#: home/models.py:33
+msgid "Answer"
+msgstr "پاسخ"
+
+#: home/models.py:34
+msgid "Answers"
+msgstr "پاسخ‌ها"
+
+#: home/models.py:37 home/models.py:45
+msgid "User"
+msgstr "کاربر"
+
+#: home/models.py:38
+msgid "Selected Answer"
+msgstr "گزینه‌ی انتخاب شده"
+
+#: home/models.py:40
+msgid "Vote"
+msgstr "رای"
+
+#: home/models.py:41
+msgid "Votes"
+msgstr "آرا"
+
+#: home/models.py:46 home/models.py:64
+msgid "User`s Image"
+msgstr "تصویر"
+
+#: home/models.py:47
+msgid "User`s Country"
+msgstr "کشور"
+
+#: home/models.py:48
+msgid "User`s State"
+msgstr "استان"
+
+#: home/models.py:49
+msgid "User`s City"
+msgstr "شهر"
+
+#: home/models.py:50
+msgid "User`s Address"
+msgstr "آدرس"
+
+#: home/models.py:51
+msgid "Zip Code"
+msgstr "کد پستی"
+
+#: home/models.py:52
+msgid "tel code"
+msgstr "پیش شماره"
+
+#: home/models.py:53
+msgid "Telephone Number"
+msgstr "شماره تلفن"
+
+#: home/models.py:54
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: home/models.py:55
+msgid "Gender"
+msgstr "جنسیت"
+
+#: home/models.py:56
+msgid "Birth Date"
+msgstr "تاریخ تولد"
+
+#: home/models.py:57
+msgid "User`s Grade"
+msgstr "پایه‌ی تحصیلی"
+
+#: home/models.py:58
+msgid "User`s Field"
+msgstr "رشته"
+
+#: home/models.py:59
+msgid "User`s Activation Code"
+msgstr "کد فعالسازی"
+
+#: home/models.py:60
+msgid "User`s totalPayed"
+msgstr "کل خرید"
+
+#: home/models.py:69
+msgid "User`s First Name"
+msgstr "نام"
+
+#: home/models.py:74
+msgid "User`s Last Name"
+msgstr "نام خانوادگی"
+
+#: home/models.py:79
+msgid "User`s Email"
+msgstr "ایمیل"
+
+#: home/models.py:83
+msgid "User Info"
+msgstr "مشخصات کاربر"
+
+#: home/models.py:84
+msgid "User Infos"
+msgstr "مشخصات کاربر"
+
+#: lottery/admin.py:8
+msgid "Lottery Winner"
+msgstr "برنده‌ی قرعه‌کشی"
+
+#: lottery/admin.py:9
+msgid "Lottery Winners"
+msgstr "برندگان قرعه‌کشی"
+
+#: lottery/apps.py:8
+msgid "lottery"
+msgstr "قرعه کشی"
+
+#: lottery/models.py:12
+msgid "Lottery Title"
+msgstr "عنوان قرعه‌کشی"
+
+#: lottery/models.py:18
+msgid "Lottery"
+msgstr "قرعه کشی"
+
+#: lottery/models.py:19
+msgid "Lotteries"
+msgstr "قرعه کشی‌ها"
+
+#: lottery/models.py:23
+msgid "Winner Name"
+msgstr "نام برنده"
+
+#: lottery/models.py:24
+msgid "Winner Family"
+msgstr "نام برنده"
+
+#: lottery/models.py:25
+msgid "Winner Id"
+msgstr "برنده"
+
+#: lottery/models.py:26
+msgid "Winner City"
+msgstr "شهر برنده"
+
+#: lottery/models.py:27
+msgid "Award"
+msgstr "جایزه"
+
+#: lottery/models.py:31
+msgid "Winner"
+msgstr "برنده"
+
+#: lottery/models.py:32
+msgid "Winners"
+msgstr "برندگان"
+
+#: montasheran/local_setting.py:62 montasheran/settings.py:65
+msgid "Green"
+msgstr "سبز"
+
+#: montasheran/local_setting.py:67 montasheran/settings.py:70
+msgid "Light Green"
+msgstr "سبز روشن"
+
+#: montasheran/local_setting.py:72 montasheran/settings.py:75
+msgid "Light Violet"
+msgstr "بنفش روشن"
+
+#: montasheran/local_setting.py:77 montasheran/settings.py:80
+msgid "Light Blue"
+msgstr "آبی روشن"
+
+#: montasheran/local_setting.py:82 montasheran/settings.py:85
+msgid "Light Gray"
+msgstr "خاکستری"
+
+#: montasheran/local_setting.py:147 montasheran/settings.py:154
+msgid "Persian"
+msgstr "پرسین"
+
+#: montasheran/local_setting.py:148 montasheran/settings.py:155
+msgid "English"
+msgstr "انگلیسی"
+
+#: shop/admin.py:46 shop/models.py:73 shop/models.py:75
+msgid "Preview Image"
+msgstr "تصویر پیش‌نمایش محصول"
+
+#: shop/admin.py:47 shop/models.py:76
+msgid "Preview Images"
+msgstr "تصاویر پیش‌نمایش محصول"
+
+#: shop/apps.py:7
+msgid "shop"
+msgstr "فروشگاه"
+
+#: shop/models.py:11
+msgid "Serie Name"
+msgstr "نام مجموعه"
+
+#: shop/models.py:16 shop/models.py:32 shop/models.py:49
+msgid "Product Serie"
+msgstr "مجموعه کتاب‌"
+
+#: shop/models.py:17
+msgid "Product Series"
+msgstr "مجموعه کتاب‌‌ها"
+
+#: shop/models.py:25 shop/models.py:33
+msgid "Product Grade"
+msgstr "پایه‌ی تحصیلی"
+
+#: shop/models.py:26
+msgid "Product Grades"
+msgstr "پایه‌های تحصیلی"
+
+#: shop/models.py:29 shop/models.py:64 shop/models.py:72
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: shop/models.py:30
+msgid "Product Price"
+msgstr "قیمت محصول"
+
+#: shop/models.py:31 shop/models.py:44
+msgid "Product Image"
+msgstr "تصویر محصول"
+
+#: shop/models.py:34
+msgid "Product Description"
+msgstr "توضیحات محصول"
+
+#: shop/models.py:35
+msgid "Publish Date"
+msgstr "تاریخ انتشار"
+
+#: shop/models.py:36
+msgid "Product Edition"
+msgstr "نسخه‌ی محصول"
+
+#: shop/models.py:37
+msgid "Page Numbers"
+msgstr "تعداد صفحات"
+
+#: shop/models.py:38
+msgid "Discount"
+msgstr "تخفیف"
+
+#: shop/models.py:39
+msgid "Weight"
+msgstr "وزن به گرم"
+
+#: shop/models.py:51
+msgid "Product"
+msgstr "محصول"
+
+#: shop/models.py:52
+msgid "Products"
+msgstr "محصولات"
+
+#: shop/models.py:56
+msgid "Customer"
+msgstr "مشتری"
+
+#: shop/models.py:57
+msgid "Session"
+msgstr "نوبت"
+
+#: shop/models.py:59 shop/models.py:63
+msgid "Cart"
+msgstr "سبد"
+
+#: shop/models.py:60
+msgid "Carts"
+msgstr "سبدها"
+
+#: shop/models.py:65
+msgid "Item Quantity"
+msgstr "تعداد محصول"
+
+#: shop/models.py:66
+msgid "is payed"
+msgstr "پرداخت شده"
+
+#: shop/models.py:68
+msgid "Item"
+msgstr "انتخاب"
+
+#: shop/models.py:69
+msgid "Items"
+msgstr "انتخاب‌ها"
+
+#: shop/models.py:79
+msgid "Created At"
+msgstr "تاریخ و ساعت"
+
+#: shop/models.py:80
+msgid "Cart id"
+msgstr "سبد"
+
+#: shop/models.py:81 shop/models.py:106
+msgid "Order Items"
+msgstr "محصولات سفارش"
+
+#: shop/models.py:82
+msgid "Customer Name"
+msgstr "نام مشتری"
+
+#: shop/models.py:83
+msgid "Customer Last Name"
+msgstr "نام خانوادگی مشتری"
+
+#: shop/models.py:84
+msgid "Customer Phone"
+msgstr "شماره تلفن مشتری"
+
+#: shop/models.py:85
+msgid "Customer Mobile"
+msgstr "شماره موبایل مشتری"
+
+#: shop/models.py:86
+msgid "Customer Email"
+msgstr "ایمیل مشتری"
+
+#: shop/models.py:87
+msgid "Customer Address"
+msgstr "آدرس مشتری"
+
+#: shop/models.py:88
+msgid "Customer Postal Code"
+msgstr "کد پستی مشتری"
+
+#: shop/models.py:89
+msgid "Customer City"
+msgstr "شهر مشتری"
+
+#: shop/models.py:90
+msgid "Customer Province"
+msgstr "استان مشتری"
+
+#: shop/models.py:91
+msgid "Order Deliver"
+msgstr "شیوه‌ی ارسال"
+
+#: shop/models.py:92
+msgid "Order Pay"
+msgstr "شیوه‌ی پرداخت"
+
+#: shop/models.py:93
+msgid "Post Cost"
+msgstr "هزینه‌ی ارسال"
+
+#: shop/models.py:94
+msgid "Total Price"
+msgstr "قیمت کل"
+
+#: shop/models.py:95
+msgid "Total Cost"
+msgstr "کل هزینه"
+
+#: shop/models.py:96
+msgid "Invoice"
+msgstr "فاکتور"
+
+#: shop/models.py:97
+msgid "RefNum"
+msgstr "رسید دیجیتالی بانک"
+
+#: shop/models.py:107
+msgid "Order Payed"
+msgstr "وضعیت پرداخت"
+
+#: shop/models.py:109
+msgid "Order"
+msgstr "سفارش"
+
+#: shop/models.py:110
+msgid "Orders"
+msgstr "سفارش‌ها"
+
+#~ msgid "totalPayed"
+#~ msgstr "کل خرید"
+
+#~ msgid "Violet"
+#~ msgstr "بنفش"

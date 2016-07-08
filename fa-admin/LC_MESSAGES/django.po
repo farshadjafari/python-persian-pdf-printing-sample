@@ -1,0 +1,855 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-07 15:14+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: jet/dashboard/dashboard.py:207
+msgid "Quick links"
+msgstr "دسترسی سریع"
+
+#: jet/dashboard/dashboard.py:213
+msgid "Return to site"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:214 jet/templates/admin/base.html:105
+msgid "Change password"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:216 jet/templates/admin/base.html:109
+msgid "Log out"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:224 jet/dashboard/modules.py:268
+#: jet/templates/admin/base.html:218 jet/templates/admin/index.html:14
+msgid "Applications"
+msgstr "برنامه‌ها"
+
+#: jet/dashboard/dashboard.py:232
+msgid "Administration"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:240 jet/dashboard/modules.py:413
+#: jet/templates/admin/index.html:68
+msgid "Recent Actions"
+msgstr "فعالیت‌های اخیر"
+
+#: jet/dashboard/dashboard.py:248
+msgid "Latest Django News"
+msgstr "آخرین اخبار جنگو"
+
+#: jet/dashboard/dashboard.py:257
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: jet/dashboard/dashboard.py:260
+msgid "Django documentation"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:265
+msgid "Django \"django-users\" mailing list"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:270
+msgid "Django irc channel"
+msgstr ""
+
+#: jet/dashboard/dashboard.py:285
+msgid "Application models"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:144
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:102
+msgid "Revoke access"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:149
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:107
+msgid "Grant access"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:162
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:117
+msgid "Access"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:163
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:118
+msgid "Counter"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:164
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:119
+msgid "Statistics period"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:165
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:120
+msgid "Today"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:166
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:121
+msgid "Last week"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:167
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:122
+msgid "Last month"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:168
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:123
+msgid "Last quarter"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:169
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:124
+msgid "Last year"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:179
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:134
+msgid "none"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:182
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:137
+msgid "grant access first"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:182
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:137
+msgid "counters loading failed"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:187
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:142
+msgid "Show"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:188
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_period_visitors.html:15
+msgid "Users"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:189
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_period_visitors.html:16
+msgid "Sessions"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:190
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:145
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_period_visitors.html:17
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_period_visitors.html:17
+msgid "Views"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:192
+#: jet/dashboard/dashboard_modules/google_analytics.py:200
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:147
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:155
+msgid "Group"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:193
+#: jet/dashboard/dashboard_modules/google_analytics.py:201
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:148
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:156
+msgid "By day"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:194
+#: jet/dashboard/dashboard_modules/google_analytics.py:202
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:149
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:157
+msgid "By week"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:195
+#: jet/dashboard/dashboard_modules/google_analytics.py:203
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:150
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:158
+msgid "By month"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:276
+#, python-format
+msgid ""
+"Please <a href=\"%s\">attach Google account and choose Google Analytics "
+"counter</a> to start using widget"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:279
+#, python-format
+msgid ""
+"Please <a href=\"%s\">select Google Analytics counter</a> to start using "
+"widget"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:298
+#: jet/dashboard/dashboard_modules/google_analytics_views.py:42
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:235
+#: jet/dashboard/dashboard_modules/yandex_metrika_views.py:37
+msgid "API request failed."
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:300
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:237
+#, python-format
+msgid " Try to <a href=\"%s\">revoke and grant access</a> again"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:310
+msgid "Google Analytics visitors totals"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:325
+msgid "users"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:326
+msgid "sessions"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:327
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:266
+msgid "views"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:329
+#: jet/dashboard/dashboard_modules/google_analytics.py:387
+#: jet/dashboard/dashboard_modules/google_analytics.py:437
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:268
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:320
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:364
+msgid "Bad server response"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:339
+msgid "Google Analytics visitors chart"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics.py:397
+msgid "Google Analytics period visitors"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics_views.py:26
+#: jet/dashboard/dashboard_modules/google_analytics_views.py:46
+#: jet/dashboard/dashboard_modules/yandex_metrika_views.py:23
+#: jet/dashboard/dashboard_modules/yandex_metrika_views.py:45
+msgid "Module not found"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/google_analytics_views.py:44
+#: jet/dashboard/dashboard_modules/yandex_metrika_views.py:43
+msgid "Bad arguments"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:143
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_period_visitors.html:15
+msgid "Visitors"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:144
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_period_visitors.html:16
+msgid "Visits"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:218
+#, python-format
+msgid ""
+"Please <a href=\"%s\">attach Yandex account and choose Yandex Metrika "
+"counter</a> to start using widget"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:221
+#, python-format
+msgid ""
+"Please <a href=\"%s\">select Yandex Metrika counter</a> to start using widget"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:249
+msgid "Yandex Metrika visitors totals"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:264
+msgid "visitors"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:265
+msgid "visits"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:278
+msgid "Yandex Metrika visitors chart"
+msgstr ""
+
+#: jet/dashboard/dashboard_modules/yandex_metrika.py:330
+msgid "Yandex Metrika period visitors"
+msgstr ""
+
+#: jet/dashboard/models.py:11 jet/dashboard/modules.py:139
+#: jet/templates/admin/base.html:250
+msgid "Title"
+msgstr "عنوان"
+
+#: jet/dashboard/models.py:12
+msgid "module"
+msgstr "ماژول"
+
+#: jet/dashboard/models.py:13 jet/models.py:25
+msgid "application name"
+msgstr "نام برنامه"
+
+#: jet/dashboard/models.py:14 jet/models.py:11 jet/models.py:26
+msgid "user"
+msgstr ""
+
+#: jet/dashboard/models.py:15
+msgid "column"
+msgstr ""
+
+#: jet/dashboard/models.py:16
+msgid "order"
+msgstr ""
+
+#: jet/dashboard/models.py:17
+msgid "settings"
+msgstr ""
+
+#: jet/dashboard/models.py:18
+msgid "children"
+msgstr ""
+
+#: jet/dashboard/models.py:19
+msgid "collapsed"
+msgstr ""
+
+#: jet/dashboard/models.py:22
+msgid "user dashboard module"
+msgstr ""
+
+#: jet/dashboard/models.py:23
+msgid "user dashboard modules"
+msgstr ""
+
+#: jet/dashboard/modules.py:138 jet/models.py:9
+#: jet/templates/admin/base.html:252
+msgid "URL"
+msgstr ""
+
+#: jet/dashboard/modules.py:140
+msgid "External link"
+msgstr ""
+
+#: jet/dashboard/modules.py:144
+msgid "Layout"
+msgstr ""
+
+#: jet/dashboard/modules.py:144
+msgid "Stacked"
+msgstr ""
+
+#: jet/dashboard/modules.py:144
+msgid "Inline"
+msgstr ""
+
+#: jet/dashboard/modules.py:190 jet/dashboard/modules.py:214
+msgid "Links"
+msgstr "پیوند‌ها"
+
+#: jet/dashboard/modules.py:213
+msgid "Link"
+msgstr ""
+
+#: jet/dashboard/modules.py:340
+msgid "Models"
+msgstr ""
+
+#: jet/dashboard/modules.py:383 jet/dashboard/modules.py:490
+msgid "Items limit"
+msgstr ""
+
+#: jet/dashboard/modules.py:491
+msgid "Feed URL"
+msgstr ""
+
+#: jet/dashboard/modules.py:522
+msgid "RSS Feed"
+msgstr "فید آر اس اس"
+
+#: jet/dashboard/modules.py:568
+msgid "You must install the FeedParser python module"
+msgstr ""
+
+#: jet/dashboard/modules.py:573
+msgid "You must provide a valid feed URL"
+msgstr ""
+
+#: jet/dashboard/templates/admin/app_index.html:32
+#: jet/dashboard/templates/jet.dashboard/update_module.html:14
+#: jet/templates/admin/base.html:135 jet/templates/admin/base.html.py:187
+#: jet/templates/admin/change_form.html:17
+#: jet/templates/admin/change_list.html:33
+#: jet/templates/admin/delete_confirmation.html:8
+#: jet/templates/admin/delete_selected_confirmation.html:8
+#: jet/templates/admin/object_history.html:6
+#: jet/templates/registration/logged_out.html:4
+#: jet/templates/registration/password_change_done.html:6
+#: jet/templates/registration/password_change_form.html:6
+msgid "Home"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/dashboard.html:17
+msgid "Delete widget"
+msgstr "حذف ابزارک"
+
+#: jet/dashboard/templates/jet.dashboard/dashboard.html:18
+msgid "Are you sure want to delete this widget?"
+msgstr "اطمینان دارید؟"
+
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:7
+msgid "widgets"
+msgstr "ابزارک‌ها"
+
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:8
+msgid "available"
+msgstr "موجود"
+
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:13
+msgid "inititals"
+msgstr "اصلی‌ها"
+
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:18
+#: jet/dashboard/templates/jet.dashboard/modules/app_list.html:18
+#: jet/dashboard/templates/jet.dashboard/modules/model_list.html:8
+#: jet/templates/admin/change_form.html:20 jet/templates/admin/index.html:34
+msgid "Add"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:21
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:27
+msgid "Reset widgets"
+msgstr "نوسازی ابزارک"
+
+#: jet/dashboard/templates/jet.dashboard/dashboard_tools.html:28
+msgid "Are you sure want to reset widgets?"
+msgstr "اطمینان دارید؟"
+
+#: jet/dashboard/templates/jet.dashboard/module.html:19
+#: jet/dashboard/templates/jet.dashboard/modules/app_list.html:24
+#: jet/dashboard/templates/jet.dashboard/modules/model_list.html:14
+#: jet/dashboard/views.py:85 jet/templates/admin/edit_inline/stacked.html:44
+#: jet/templates/admin/edit_inline/tabular.html:39
+#: jet/templates/admin/index.html:40
+msgid "Change"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/module.html:22
+#: jet/templates/admin/delete_confirmation.html:12
+#: jet/templates/admin/related_widget_wrapper.html:24
+#: jet/templates/admin/submit_line.html:11
+msgid "Delete"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/modules/app_list.html:7
+#: jet/dashboard/templates/jet.dashboard/modules/app_list.html:10
+#: jet/templates/admin/index.html:23 jet/templates/admin/index.html.py:26
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/modules/feed.html:13
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_period_visitors.html:34
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_visitors_chart.html:30
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_visitors_totals.html:23
+#: jet/dashboard/templates/jet.dashboard/modules/link_list.html:26
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_period_visitors.html:34
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_visitors_chart.html:30
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_visitors_totals.html:23
+msgid "Nothing to show"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/modules/google_analytics_period_visitors.html:14
+#: jet/dashboard/templates/jet.dashboard/modules/yandex_metrika_period_visitors.html:14
+msgid "Date"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/modules/recent_actions.html:6
+#: jet/templates/admin/index.html:75
+msgid "None available"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/modules/recent_actions.html:29
+#: jet/templates/admin/index.html:98
+msgid "Unknown content"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/update_module.html:35
+#: jet/templates/admin/change_form.html:62
+msgid "General"
+msgstr "کلیات"
+
+#: jet/dashboard/templates/jet.dashboard/update_module.html:56
+#: jet/templates/admin/change_list.html:61
+#: jet/templates/admin/edit_inline/stacked.html:8
+#: jet/templates/admin/edit_inline/tabular.html:10
+#: jet/templates/admin/includes/fieldset.html:9
+#: jet/templates/admin/login.html:27
+#: jet/templates/registration/password_change_form.html:21
+msgid "Please correct the errors below."
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/update_module.html:126
+#: jet/templates/admin/base.html:272 jet/templates/admin/base.html.py:279
+#: jet/templates/admin/edit_inline/stacked.html:21
+#: jet/templates/admin/edit_inline/stacked.html:75
+#: jet/templates/admin/edit_inline/tabular.html:100
+msgid "Remove"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/update_module.html:127
+#: jet/templates/admin/edit_inline/stacked.html:76
+#: jet/templates/admin/edit_inline/tabular.html:99
+#, python-format
+msgid "Add another %(verbose_name)s"
+msgstr ""
+
+#: jet/dashboard/templates/jet.dashboard/update_module.html:135
+#: jet/templates/admin/pagination.html:20
+#: jet/templates/admin/submit_line.html:4
+msgid "Save"
+msgstr ""
+
+#: jet/dashboard/views.py:17
+msgid "Widget was successfully updated"
+msgstr ""
+
+#: jet/dashboard/views.py:89 jet/dashboard/views.py:90
+msgid "Items"
+msgstr ""
+
+#: jet/dashboard/views.py:152
+msgid "Widget has been successfully added"
+msgstr ""
+
+#: jet/models.py:10
+msgid "title"
+msgstr ""
+
+#: jet/models.py:12 jet/models.py:27
+msgid "date created"
+msgstr ""
+
+#: jet/models.py:15
+msgid "bookmark"
+msgstr "دسترسی سریع"
+
+#: jet/models.py:16 jet/templates/admin/base.html:265
+msgid "bookmarks"
+msgstr "دسترسی‌ها"
+
+#: jet/models.py:30
+msgid "pinned application"
+msgstr ""
+
+#: jet/models.py:31
+msgid "pinned applications"
+msgstr ""
+
+#: jet/templates/admin/actions.html:8
+msgid "Run the selected action"
+msgstr ""
+
+#: jet/templates/admin/actions.html:8 jet/templates/admin/base.html:129
+msgid "Go"
+msgstr "برو"
+
+#: jet/templates/admin/actions.html:17
+msgid "Click here to select the objects across all pages"
+msgstr ""
+
+#: jet/templates/admin/actions.html:17
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr ""
+
+#: jet/templates/admin/actions.html:19
+msgid "Clear selection"
+msgstr ""
+
+#: jet/templates/admin/base.html:83
+msgid "current theme"
+msgstr "رنگ‌بندی کنونی"
+
+#: jet/templates/admin/base.html:194
+msgid "View site"
+msgstr ""
+
+#: jet/templates/admin/base.html:202
+msgid "Documentation"
+msgstr ""
+
+#: jet/templates/admin/base.html:247 jet/templates/admin/base.html.py:264
+#, fuzzy
+#| msgid "bookmark"
+msgid "Add bookmark"
+msgstr "افزودن دسترسی"
+
+#: jet/templates/admin/base.html:260
+#, fuzzy
+#| msgid "bookmark"
+msgid "Delete bookmark"
+msgstr "حذف دسترسی"
+
+#: jet/templates/admin/base.html:261
+msgid "Are you sure want to delete this bookmark?"
+msgstr "اطمینان دارید؟"
+
+#: jet/templates/admin/base.html:299 jet/templates/admin/search_form.html:6
+#: jet/templates/admin/search_form.html:17
+msgid "Search"
+msgstr "جستجو"
+
+#: jet/templates/admin/base.html:303
+msgid "Application page"
+msgstr "صفحه‌ی این برنامه"
+
+#: jet/templates/admin/base_site.html:3
+msgid "Django site admin"
+msgstr ""
+
+#: jet/templates/admin/change_form.html:35
+#: jet/templates/admin/object_history.html:10
+msgid "History"
+msgstr "تاریخچه"
+
+#: jet/templates/admin/change_form.html:38
+#: jet/templates/admin/edit_inline/stacked.html:49
+#: jet/templates/admin/edit_inline/tabular.html:45
+msgid "View on site"
+msgstr "نمایش در سایت"
+
+#: jet/templates/admin/change_list.html:51
+#, python-format
+msgid "Add %(name)s"
+msgstr ""
+
+#: jet/templates/admin/change_list.html:61 jet/templates/admin/login.html:27
+#: jet/templates/registration/password_change_form.html:21
+msgid "Please correct the error below."
+msgstr ""
+
+#: jet/templates/admin/change_list_results.html:17
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr ""
+
+#: jet/templates/admin/change_list_results.html:18
+msgid "Remove from sorting"
+msgstr ""
+
+#: jet/templates/admin/change_list_results.html:19
+msgid "Toggle sorting"
+msgstr ""
+
+#: jet/templates/admin/change_list_results.html:35
+msgid "try to reset filters"
+msgstr ""
+
+#: jet/templates/admin/delete_confirmation.html:18
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+
+#: jet/templates/admin/delete_confirmation.html:25
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+
+#: jet/templates/admin/delete_confirmation.html:32
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+
+#: jet/templates/admin/delete_confirmation.html:41
+#: jet/templates/admin/delete_selected_confirmation.html:43
+msgid "Yes, I'm sure"
+msgstr "بله"
+
+#: jet/templates/admin/delete_confirmation.html:42
+#: jet/templates/admin/delete_selected_confirmation.html:44
+msgid "No, take me back"
+msgstr "خیر، برگرد"
+
+#: jet/templates/admin/delete_confirmation.html:56
+#: jet/templates/admin/delete_selected_confirmation.html:59
+msgid "Objects"
+msgstr "چیز"
+
+#: jet/templates/admin/delete_selected_confirmation.html:11
+msgid "Delete multiple objects"
+msgstr "حذف چند شی"
+
+#: jet/templates/admin/delete_selected_confirmation.html:17
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+
+#: jet/templates/admin/delete_selected_confirmation.html:24
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+
+#: jet/templates/admin/delete_selected_confirmation.html:31
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+
+#: jet/templates/admin/edit_inline/tabular.html:25
+msgid "Delete?"
+msgstr ""
+
+#: jet/templates/admin/filter.html:6
+#, python-format
+msgid "%(filter_title)s"
+msgstr ""
+
+#: jet/templates/admin/includes/object_delete_summary.html:2
+msgid "Summary"
+msgstr ""
+
+#: jet/templates/admin/index.html:56
+msgid "You don't have permission to edit anything."
+msgstr ""
+
+#: jet/templates/admin/login.html:16
+msgid "<span class=\"bright\">Admin</span> Site"
+msgstr ""
+
+#: jet/templates/admin/login.html:21 jet/templates/admin/login.html.py:54
+msgid "Log in"
+msgstr ""
+
+#: jet/templates/admin/login.html:50
+msgid "Forgotten your password or username?"
+msgstr ""
+
+#: jet/templates/admin/object_history.html:21
+msgid "Date/time"
+msgstr ""
+
+#: jet/templates/admin/object_history.html:22
+msgid "User"
+msgstr ""
+
+#: jet/templates/admin/object_history.html:23
+#, fuzzy
+#| msgid "Applications"
+msgid "Action"
+msgstr "فعالیت‌ها"
+
+#: jet/templates/admin/object_history.html:37
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
+msgstr ""
+
+#: jet/templates/admin/pagination.html:7
+#: jet/templates/admin/search_form.html:20
+msgid "Show all"
+msgstr ""
+
+#: jet/templates/admin/related_widget_wrapper.html:8
+#, python-format
+msgid "Change selected %(model)s"
+msgstr ""
+
+#: jet/templates/admin/related_widget_wrapper.html:15
+#, python-format
+msgid "Add another %(model)s"
+msgstr ""
+
+#: jet/templates/admin/related_widget_wrapper.html:22
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr ""
+
+#: jet/templates/admin/search_form.html:20
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] ""
+
+#: jet/templates/admin/search_form.html:20
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr ""
+
+#: jet/templates/admin/submit_line.html:5
+msgid "Save as new"
+msgstr ""
+
+#: jet/templates/admin/submit_line.html:6
+msgid "Save and add another"
+msgstr ""
+
+#: jet/templates/admin/submit_line.html:7
+msgid "Save and continue editing"
+msgstr ""
+
+#: jet/templates/registration/logged_out.html:9
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr ""
+
+#: jet/templates/registration/logged_out.html:10
+msgid "Log in again"
+msgstr ""
+
+#: jet/templates/registration/password_change_done.html:7
+#: jet/templates/registration/password_change_form.html:7
+msgid "Password change"
+msgstr ""
+
+#: jet/templates/registration/password_change_done.html:15
+msgid "Your password was changed."
+msgstr ""
+
+#: jet/templates/registration/password_change_form.html:25
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+
+#: jet/templates/registration/password_change_form.html:50
+msgid "Change my password"
+msgstr ""
